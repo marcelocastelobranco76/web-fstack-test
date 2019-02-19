@@ -17,7 +17,7 @@ Para a realização do teste, **este repositório deverá ser forkado e o projet
 
 O projeto deve conter um breve Readme (formato Markdown) com instruções de instalação e uso.
 
-## Arquivo de Entrada
+## Exemplo de Arquivo de Entrada
 [Currículo de Exemplo](public/researcher_example.xml)
 
 ## Requisitos
@@ -37,9 +37,6 @@ Utilização de componentes VueJS
 Testes (TDD)
 Boas práticas e padrões de projeto
 Organização e documentação do fluxo de desenvolvimento (um board no trello, asana e etc)
-
-## Exemplo de arquivo de entrada:
-researcher.xml
 
 ## Dicas e sugestões:
 
