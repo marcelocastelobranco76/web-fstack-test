@@ -45,3 +45,4 @@ MongoID Gem para interface mongodb <-> ruby
 GitKraken para controle de versão
 
 ## Exemplo de resultado final:
+[Imagem exemplo](img/screen_example.png)
