@@ -17,6 +17,9 @@ Para a realização do teste, **este repositório deverá ser forkado e o projet
 
 O projeto deve conter um breve Readme (formato Markdown) com instruções de instalação e uso.
 
+## Arquivo de Entrada
+[Currículo de Exemplo](public/researcher_example.xml)
+
 ## Requisitos
 
 Ruby on Rails Project(MVC)
