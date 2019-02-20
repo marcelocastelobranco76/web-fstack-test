@@ -4,7 +4,7 @@
 A indeorum iniciou como uma empresa voltada a serviços de data science aplicados a pós-graduação brasileira.
 Por isso, seus três produtos lançados são voltados para esta área (Cientum, Ranquium e Quantum).
 
-## O Teste
+## Objetivo do Teste
 
 Como uma startup que iniciou na área da educação, a Indeorum processa grandes quantidades de dados provenientes das plataformas Lattes e Sucupira. Na plataforma Lattes os dados são exportados no formato de XML, no formato do arquivo de exemplo apresentado na seção abaixo.
 Sua tarefa será criar uma aplicação MVC em Ruby on Rails que lê arquivos de entrada no formato XML do lattes (como o apresentado), armazena-os em uma base de dados MongoDB e apresenta-os em uma interface no estilo material design (você poderá usar o framework desejado para material, como materialize, material design lite, vuetify e etc).
